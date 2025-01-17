@@ -12,7 +12,7 @@ querystring = {
 }
 
 headers = {
-    "X-RapidAPI-Key": "58beedd836mshd1fe15a27542864p14f2bajsn039e4056366e",
+    "X-RapidAPI-Key": "Your XRapid API Key",
     "X-RapidAPI-Host": "local-business-data.p.rapidapi.com",
 }
 
